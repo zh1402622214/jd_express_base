@@ -1,9 +1,9 @@
 {
-    "name": "lop/lop-opensdk-php",
+    "name": "sanxc/jd_express_base",
     "authors": [
         {
-            "name": "lop",
-            "email": "gateway@jd.com"
+            "name": "sanxc",
+            "email": "1402622214@qq.com"
         }
     ],
     "minimum-stability":"dev",
